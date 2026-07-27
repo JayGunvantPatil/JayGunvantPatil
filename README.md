@@ -57,9 +57,6 @@
 ### 🤖 AI Tools
 
 <p>
-<img src="https://img.shields.io/badge/Void-000000?style=for-the-badge" />
-
-
 <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white" />
 <img src="https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=white" />
 <img src="https://img.shields.io/badge/Lovable-FF69B4" />
