@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jay Patil</h1>
-<h3 align="center">🚀 Building ReframeBase & MessFinder </h3>
-
-
 <p align="center">
 <a href="https://messfinder.vip" target="_blank">🍴 MessFinder</a>
 </p>
