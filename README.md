@@ -16,7 +16,7 @@
 
 ### 🌐 Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/jay-patil-7bb6b1291/" target="_blank">
+<a href=" https://www.linkedin.com/in/jay-patil-92ba063a7/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
 </a>
 <a href="mailto:patilgunvant004@gmail.com">
