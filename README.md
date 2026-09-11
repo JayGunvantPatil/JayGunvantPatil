@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jay Patil</h1>
 <p align="center">
 <a href="https://messfinder.vip" target="_blank">🍴 MessFinder</a>
-  
 <a href="https://messfinder.vip" target="_blank">🩺 MedNivo</a>
 </p>
 
