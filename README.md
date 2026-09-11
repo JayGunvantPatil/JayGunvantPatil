@@ -74,6 +74,6 @@
 Find daily mess menus instantly 🍽️ 
 
 #### 🩺 MedNivo
-👉  https://mednivo.vercel.app/
+👉 https://mednivo.vercel.app/
 Choose Your Doctor, Schedule Your Appointment.
 --- 
