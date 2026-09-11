@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Patil</h1>
 <p align="center">
-<a href="https://messfinder.vip" target="_blank">🍴 MessFinder</a>
+<a href="https://messfinder.vip" target="_blank">🍴 MessFinder</a>\
+<a href="https://messfinder.vip" target="_blank">🩺 MedNivo</a>
 </p>
 
 ---
@@ -70,5 +71,9 @@
 ### 🚀 Featured Projects
 #### 🔥 MessFinder  
 👉 https://messfinder.vip  
-Find daily mess menus instantly 🍽️  
----
+Find daily mess menus instantly 🍽️ 
+
+#### 🩺 MedNivo
+👉  https://mednivo.vercel.app/
+Choose Your Doctor, Schedule Your Appointment.
+--- 
